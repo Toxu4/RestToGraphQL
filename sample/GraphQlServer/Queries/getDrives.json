@@ -1,0 +1,6 @@
+{
+  "RequestMethod" : "GET",
+  "RequestPattern" : "api/drives/?$",
+  "QueryText" : "query getDrives{ drives{ list{ name availableFreeSpace content{__typename  ... on FolderType{ name fullName}... on FileType{ name length}}}}}",
+  "ResultToken" : "drives.list"
+}

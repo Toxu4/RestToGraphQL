@@ -1,0 +1,6 @@
+{
+  "RequestMethod" : "GET",
+  "RequestPattern" : "api/folders/?$",
+  "QueryText" : "query getFolder($name: String){ folder(name: $name){ fullName content{ __typename ... on FolderType{ fullName } ... on FileType{ name }}}}",
+  "ResultToken" : ""
+}
