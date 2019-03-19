@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\build\common.props" />
+    
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Description>IQueryStorage implementations for RestToGraphQL proxy middleware</Description>
+        <AssemblyName>RestToGraphQL.FileQueryStorage</AssemblyName>
+        <PackageId>RestToGraphQL.FileQueryStorage</PackageId>        
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\RestToGraphQL.Core\RestToGraphQL.Core.csproj" />
+    </ItemGroup>
+
+</Project>
