@@ -1,0 +1,14 @@
+<Project>
+    <Import Project="..\version.props" />
+    <PropertyGroup>
+        <PackageProjectUrl>https://github.com/Toxu4/RestToGraphQL</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Toxu4/RestToGraphQL/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/Toxu4/RestToGraphQL</RepositoryUrl>
+        <Authors>Anton Krasilshchikov, Rambler Digital Solutions</Authors>
+        <Product>RestToGraphQL</Product>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <RepositoryType>git</RepositoryType>
+        <NoWarn>1701;1702;1705;1591</NoWarn>
+    </PropertyGroup>
+</Project>
