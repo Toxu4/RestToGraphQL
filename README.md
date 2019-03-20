@@ -6,7 +6,7 @@
 
 ## Getting started
 
-RestAPI proxy to GraphQL api.
+RestAPI adapter for GraphQL api.
 
 Add package (or implement your own Query storage)
 
