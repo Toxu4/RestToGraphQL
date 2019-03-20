@@ -3,7 +3,7 @@
     
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
-        <Description>RestToGraphQL proxy middleware</Description>
+        <Description>RestAPI adapter's middleware for GraphQL api</Description>
         <AssemblyName>RestToGraphQL.Core</AssemblyName>
         <PackageId>RestToGraphQL.Core</PackageId>        
     </PropertyGroup>
