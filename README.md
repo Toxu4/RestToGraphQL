@@ -6,7 +6,7 @@
 
 ## Getting started
 
-RestAPI adapter for GraphQL api.
+Rest api adapter for GraphQL api.
 
 Add package (or implement your own Query storage)
 
